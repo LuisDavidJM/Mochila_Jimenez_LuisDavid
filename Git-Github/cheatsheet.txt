@@ -1,0 +1,13 @@
+| Comando                   | Descripción                                                               |
+|---------------------------|---------------------------------------------------------------------------|
+| git init                  | Inicializa un repositorio Git en el directorio actual.                    |
+| git clone [url]           | Clona un repositorio remoto en el directorio local.                       |
+| git add [archivo]         | Agrega un archivo al área de preparación (staging area).                  |
+| git commit -m "[mensaje]" | Crea un nuevo commit con los cambios agregados en el área de preparación. |
+| git status                | Muestra el estado actual del repositorio y los cambios pendientes.        |
+| git branch                | Lista las ramas existentes en el repositorio.                             |
+| git checkout [rama]       | Cambia a la rama especificada.                                            |
+| git pull                  | Obtiene los cambios más recientes del repositorio remoto y los fusiona.   |
+| git push                  | Envía los cambios locales al repositorio remoto.                          |
+| git merge [rama]          | Fusiona los cambios de una rama específica en la rama actual.             |
+| git log                   | Muestra el historial de commits realizados en el repositorio.             |
