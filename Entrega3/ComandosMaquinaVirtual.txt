@@ -1,0 +1,27 @@
+    1  apt-get install git
+    2  git --version
+    3  clear
+    4  git config --global user.name "LuisDavid MaquinaVirtual"
+    5  git config --global user.email luisdavidjma@gmail.com
+    6  git clone https://github.com/LuisDavidJM/Mochila_Jimenez_LuisDavid.git
+    7  ls
+    8  cd Mochila_Jimenez_LuisDavid
+    9  git status
+   10  git checkout Entrega3
+   11  git brach
+   12  git branch
+   13  ls -R
+   14  git branch -a
+   15  cd ..
+   16  git clone -b Entrega3 https://github.com/LuisDavidJM/Mochila_Jimenez_LuisDavid.git
+   17  rm -r Mochila_Jimenez_LuisDavid
+   18  git clone -b Entrega3 https://github.com/LuisDavidJM/Mochila_Jimenez_LuisDavid.git
+   19  git status
+   20  cd Mochila_Jimenez_LuisDavid
+   21  git status
+   22  ls -R
+   23  cd Entrega3
+   24  touch ArchivoMaquinaVirtual.txt
+   25  nano ArchivoMaquinaVirtual.txt
+   26  history
+   27  history > ComandosMaquinaVirtual.txt

@@ -1,0 +1,3 @@
+Pregunta 1: Los lenguajes de programaci{on estan diseñados para ejecutarse en un entorno especifico y dependen de las caracteristicas y soporte del sistema operativo.
+Pregunta 2: VirtualBox es una maquina virtual de tipo hiperviso, que permite ejecutar múltiples sistemas operativos simultaneamente.
+Pregunta 3: Si una maquina virtual se rompe, no afeta a las demás, ya que cada maquina virtual se ejecuta de forma independiente y aislada en su propio entorno virtual.
