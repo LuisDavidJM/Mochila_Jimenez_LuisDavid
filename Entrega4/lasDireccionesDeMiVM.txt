@@ -1,0 +1,4 @@
+La direccion ip privada es: 10.0.2.15
+La direccion publica no puedo porque estoy desde CLI.
+La direccion MAC es 08:00:27:8B:B0:BF
+La IP privada es diferente porque usa la red de VirtualVox, por lo cual no usa la misma del Router de internet.O
