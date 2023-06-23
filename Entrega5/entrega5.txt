@@ -1,0 +1,1 @@
+Para esta entrega use la maquina virtual con solo linea de comandos y me conecte atravez del comando SSH 
